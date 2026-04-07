@@ -3,16 +3,16 @@
 # pronounced /teɪ/ or tay
 i'm incoming student at ucsd, currently doing research at the jinesis ai lab at uoft
 
-## 🧠 research
+## 🧠 i'm currently interested in...
 - multimodal models 🤖
 - causal and visual reasoning 💭
 - ai safety & emergent behaviors 🚧
 
-## 🌊 outside of research
-- coffee shops & breweries ☕
+## 🌊 outside of research, i might be...
 - diving 🤿
 - hiking 🏞️
-- board games & old-school rpgs 🎲
+- exploring coffee shops & breweries ☕
+- playing board games & old-school rpgs 🎲
 
 feel free to reach out!
 ```
