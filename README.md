@@ -1,16 +1,18 @@
-## Hi there 👋
+```txt
+## hey! my name's jacob 👋
+# but most people call me tae (/teɪ/)
+i'm incoming student at ucsd, currently doing research at the jinesis ai lab at uoft
 
-<!--
-**jacobemmerson/jacobemmerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 research
+- multimodal models 🤖
+- causal and visual reasoning 💭
+- ai safety & emergent behaviors 🚧
 
-Here are some ideas to get you started:
+## 🌊 outside of research
+- coffee shops & breweries ☕
+- diving 🤿
+- hiking 🏞️
+- board games & old-school rpgs 🎲
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+feel free to reach out!
+```
