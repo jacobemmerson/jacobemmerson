@@ -1,6 +1,6 @@
 ```txt
-## hey! my name's jacob 👋
-# but most people call me tae (/teɪ/)
+## hey! you can call me tae👋
+# pronounced /teɪ/ or tay
 i'm incoming student at ucsd, currently doing research at the jinesis ai lab at uoft
 
 ## 🧠 research
