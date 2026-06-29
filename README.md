@@ -1,7 +1,7 @@
 ```txt
 ## hey! you can call me tae👋
 # pronounced /teɪ/ or tay
-i'm incoming student at ucsd, currently doing research at the jinesis ai lab at uoft
+i'm incoming student at ucsd, currently doing research at the vector institute and the jinesis ai lab at uoft
 
 ## 🧠 i'm currently interested in...
 - multimodal models 🤖
