@@ -15,6 +15,5 @@ i'm incoming student at ucsd, currently working at the vector institute on vario
 - playing board games & old-school rpgs 🎲
 
 feel free to reach out!
-
-🌐 https://emmerson.dev
-📧 jemmerson@ucsd.edu
+- https://emmerson.dev 🌐
+- jemmerson@ucsd.edu 📧
