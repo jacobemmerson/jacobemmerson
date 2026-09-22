@@ -16,4 +16,4 @@ i'm incoming student at ucsd, currently working at the vector institute on vario
 
 feel free to reach out!
 - https://jacobemmerson.com 🌐
-- jemmerson@ucsd.edu 📧
+- emmerson@ucsd.edu 📧
