@@ -1,7 +1,8 @@
 ### hey! you can call me tae👋 
 **pronounced /teɪ/ or tay**
 
-i'm incoming student at ucsd, currently working at the vector institute on various research and engineering projects.
+i'm currently a graduate student at ucsd. 
+previously, i worked at the vector institute and was a technical member at eurosafeai.
 
 ### i'm currently interested in...
 - multimodal models 🤖
